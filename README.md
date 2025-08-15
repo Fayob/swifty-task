@@ -187,7 +187,7 @@ The project consists of three main components:
 
 ## 🤝 Contributing
 
-We welcome contributions to SwiftyTask! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
+We welcome contributions to SwiftyTask!
 
 ### Development Workflow
 
